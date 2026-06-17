@@ -46,7 +46,7 @@ python test_RGBD_multi_fusion.py
 
 We release our public model checkpoints and results here: [Depth-Nutrition](https://pan.baidu.com/s/1k_iwU1YFuyaVgk0Godad9A?pwd=jpei)
 
-Note on the released checkpoint: "Due to the incomplete preservation of the original model parameter file used in the paper, the checkpoint in this repository is a replacement version retrained according to the training configuration described in the paper. This model performs close to the reported results on the main evaluation metrics and can be used for code validation, experiment reproduction, and follow-up research. If the original checkpoint is found later, we will update this repository promptly."
+**Note on the released checkpoint:** "Due to the incomplete preservation of the original model parameter file used in the paper, the checkpoint in this repository is a replacement version retrained according to the training configuration described in the paper. This model performs close to the reported results on the main evaluation metrics and can be used for code validation, experiment reproduction, and follow-up research. If the original checkpoint is found later, we will update this repository promptly."
 
 ### Results table
 
