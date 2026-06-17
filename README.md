@@ -29,6 +29,8 @@ Download the pre-trained weight file of [PVT-V2-B3](https://github.com/whai362/P
 
 Download the datasets [Nutrition5K](https://github.com/whai362/PVT/tree/v2/classification) and [MetaFood3D](https://github.com/whai362/PVT/tree/v2/classification).
 
+The methods for dividing the training and test sets are specified in the path `/Nutrition5k/imagery/realsense_overhead` and `/MatFood3D`.
+
 The reading and processing of the two datasets (Nutrition5K and MetaFood3D) are carried out in the file `mydataset.py` and in the `mydataset_METAFOOD3D.py` respectively.
 
 # Train 🚀
