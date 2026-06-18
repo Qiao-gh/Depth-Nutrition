@@ -3,7 +3,7 @@
 # This source code is licensed under the Clear BSD License
 # LICENSE file in the root directory of this file
 # All rights reserved.
-'''https://blog.csdn.net/u013841196/article/details/82941410 采用网络多阶段特征融合'''
+'''https://blog.csdn.net/u013841196/article/details/82941410'''
 from re import S
 import torch
 import torch.nn as nn
