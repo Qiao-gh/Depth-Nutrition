@@ -146,7 +146,7 @@ with torch.no_grad():
 # 定义文件路径
 base_path = './saved/'
 
-# 循环调用函数保存和计算指标
+# 循环调用保存函数和计算指标
 save_and_calculate_metrics(output_calories_list, total_calories_list, 'calories', base_path + 'calories_output.csv')
 save_and_calculate_metrics(output_mass_list, total_mass_list, 'mass', base_path + 'mass_output.csv')
 save_and_calculate_metrics(output_fat_list, total_fat_list, 'fat', base_path + 'fat_output.csv')
