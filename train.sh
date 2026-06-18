@@ -1,1 +1,1 @@
-nohup python train_RGBD_multi_fusion.py --model RGBD_Fusion  --dataset nutrition_rgbd   --rgbd  --direct_prediction   >nohup_DPEA.out 2>&1
+nohup python train_RGBD_Nutri.py --model RGBD_Fusion  --dataset nutrition_rgbd   --rgbd  --direct_prediction   >nohup_DPEA.out 2>&1
