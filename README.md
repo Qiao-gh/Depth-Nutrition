@@ -39,9 +39,9 @@ After preparing as detailed above, you can start a new training job with the fol
 nohup sh train.sh
 ```
 # Test 🔍
-We have provided the test script in the `test_RGBD_multi_fusion.py` file. You can run the following command line for testing:
+We have provided the test script in the `test_RGBD_Nutri.py` file. You can run the following command line for testing:
 ```bash
-python test_RGBD_multi_fusion.py
+python test_RGBD_Nutri.py
 ```
 
 # Checkpoints 📂
